@@ -1,0 +1,1 @@
+var json_Jkrln_koulu_services_242 = {"type":"FeatureCollection","name":"Jkrln_koulu_services_242","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

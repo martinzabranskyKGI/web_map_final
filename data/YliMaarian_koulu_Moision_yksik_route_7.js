@@ -1,0 +1,1 @@
+var json_YliMaarian_koulu_Moision_yksik_route_7 = {"type":"FeatureCollection","name":"YliMaarian_koulu_Moision_yksik_route_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

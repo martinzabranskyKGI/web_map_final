@@ -1,0 +1,1 @@
+var json_Loukinaisten_koulu_services_194 = {"type":"FeatureCollection","name":"Loukinaisten_koulu_services_194","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

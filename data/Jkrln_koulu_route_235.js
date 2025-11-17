@@ -1,0 +1,1 @@
+var json_Jkrln_koulu_route_235 = {"type":"FeatureCollection","name":"Jkrln_koulu_route_235","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

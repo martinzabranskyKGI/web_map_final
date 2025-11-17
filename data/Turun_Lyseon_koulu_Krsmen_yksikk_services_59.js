@@ -1,0 +1,1 @@
+var json_Turun_Lyseon_koulu_Krsmen_yksikk_services_59 = {"type":"FeatureCollection","name":"Turun_Lyseon_koulu_Krsmen_yksikk_services_59","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

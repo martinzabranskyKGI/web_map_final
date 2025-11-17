@@ -1,0 +1,1 @@
+var json_Niemenkulman_koulu_route_142 = {"type":"FeatureCollection","name":"Niemenkulman_koulu_route_142","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

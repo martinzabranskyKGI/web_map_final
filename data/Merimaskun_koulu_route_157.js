@@ -1,0 +1,1 @@
+var json_Merimaskun_koulu_route_157 = {"type":"FeatureCollection","name":"Merimaskun_koulu_route_157","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
